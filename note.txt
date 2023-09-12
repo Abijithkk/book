@@ -1,0 +1,14 @@
+
+
+DOM
+
+
+Dom Methods
+       1.document.getElementByTagName('tag name')
+       2.document.getElementById('id)
+       3.document.getElementByClassName('className')
+       4.document.querySelector('tagname/.className/#id')  -singleElmnt
+       5.document.querySelectorAll('tagname/.className/#id')  -collection of Elmnts
+
+
+       onclick event -event happens when button clicked
